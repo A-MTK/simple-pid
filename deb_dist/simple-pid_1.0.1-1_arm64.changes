@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Thu, 23 Dec 2021 03:08:35 +0000
+Source: simple-pid
+Binary: python3-simple-pid
+Architecture: all
+Version: 1.0.1-1
+Distribution: unstable
+Urgency: low
+Maintainer: unknown <unknown@unknown>
+Changed-By: unknown <unknown@unknown>
+Description:
+ python3-simple-pid - A simple, easy to use PID controller
+Changes:
+ simple-pid (1.0.1-1) unstable; urgency=low
+ .
+   * source package automatically created by stdeb 0.10.0
+Checksums-Sha1:
+ 62a5eed11e029b023120ff4b80613818ad1d9fff 8872 python3-simple-pid_1.0.1-1_all.deb
+ 5cc830c977a31a0f135e76965209f53921dce8a8 4937 simple-pid_1.0.1-1_arm64.buildinfo
+Checksums-Sha256:
+ cf8767de1ce1b5f2f99346800b43123c3eef90ad14b27eade9e0dddeb37cbb5a 8872 python3-simple-pid_1.0.1-1_all.deb
+ 95859b22ccfbd52ca8f0ce9ce6e519c665c58071927a22e82a4bae5f5c8da6b0 4937 simple-pid_1.0.1-1_arm64.buildinfo
+Files:
+ 9cd2bd7ec10e06143e6fe410ecaaed1c 8872 python optional python3-simple-pid_1.0.1-1_all.deb
+ 7ec9bf548f8ced56e7f5f7af70c2436a 4937 python optional simple-pid_1.0.1-1_arm64.buildinfo
